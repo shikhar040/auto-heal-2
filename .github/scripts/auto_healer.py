@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 Super Python Auto-Healer
 Fixes common Python syntax errors automatically
