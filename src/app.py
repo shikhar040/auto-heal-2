@@ -1,4 +1,4 @@
-﻿def hello_world():
+﻿defx hello_world():
     print("Hello, World!")
     return "Hello, World!"
 
